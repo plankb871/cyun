@@ -4,7 +4,7 @@
 
 主要是因为你所在的网络环境不纯净，最好是用有ISP的网络环境。更换较干净的网络即可登录和访问。
 
-推荐一个虚拟信用卡开卡平台，包含香港、美国万事达VISA等多种卡头，0月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、Ebay、Shopify、Github、TikTok、Paypal 等各类订阅海淘平台。点击查看详情：[https://www.fomepay.com/](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80) 
+推荐一个虚拟信用卡开卡平台，包含香港、美国万事达VISA等多种卡头，0月费使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Netflix、OnlyFans、Ebay、Shopify、Github、TikTok、Paypal 等各类订阅海淘平台。点击查看详情：[https://bit.ly/bewildcard](https://bit.ly/bewildcard) 
 
 ## 网络环境建议
 
